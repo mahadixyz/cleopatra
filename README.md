@@ -6,6 +6,7 @@ Responsive Agency Template
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![Made With](https://img.shields.io/badge/Made_with-TailwindCSS-teal)
 
+Cleopatra - A responsive agency template made with TailwindCSS.
 
 
 
